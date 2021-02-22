@@ -2,7 +2,7 @@
 
 Juego 2D Puzzle de misioneros y caníbales en python 
 
-**es con interfaz gráfica; no es sobre una consola XD**
+**es con interfaz gráfica**
 
 ## Setup
 tener python3 en la pc :P
