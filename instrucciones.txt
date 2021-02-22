@@ -1,0 +1,6 @@
+Instrucciones:
+- Para empezar a jugar, clickear en jugar desde el menú principal
+
+a) Manteniendo el click izquierdo del mouse se arrastran tanto a los canibales como a los misioneros al bote
+b) El bote tiene dos lugares para ubicar a los misioneros/caníbales
+c) Con la tecla "R", el bote se pondrá en movimiento hasta el otro lado del río (es necesario que el bote tenga una persona mínimamente)
